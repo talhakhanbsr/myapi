@@ -1,0 +1,24 @@
+{
+  "employees":[
+    {
+      "id":1,
+      "first_name":sebastian",
+      "last_name": eschweiler".com,
+      "email":"sebastian@codingthesmartway.com"
+     },
+     {
+       "id":2
+       "first_name":"steve",
+       "last-name": "palmer",
+       "email":"steve@codingthesmartway.com"
+      },
+        "id":3,
+        "first_name":"ann",
+        "last_name": "smith",
+        "email": "ann@codingthesmartway.com"
+      }
+      ]
+   }   
+      
+      
+      
